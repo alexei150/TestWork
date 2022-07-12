@@ -11,11 +11,11 @@ public class Generator {
                 char[] chars = new char[stringLength];
 
                 for (int i = 0; i < stringLength; i++) {
-                    chars[i] = (char)(97+ random.nextInt(25));
+                    chars[i] = (char) (97 + random.nextInt(25));
 
                 }
                 String string = new String(chars);
-                string=string+"\n";
+                string = string + "\n";
                 fileWriter.write(string);
                 fileWriter.flush();
 
