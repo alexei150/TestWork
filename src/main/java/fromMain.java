@@ -6,10 +6,5 @@ public class fromMain {
 
 
 
-
-        System.out.println("commited change12");
-        System.out.println("commited change12");
-
-
     }
 }
