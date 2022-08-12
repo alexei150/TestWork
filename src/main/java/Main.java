@@ -3,6 +3,7 @@ public class Main {
         System.out.println("ветка to base 2");
         System.out.println("ветка to base 2");
         System.out.println("ветка master rebase");
+        System.out.println("ветка master rebase 2");
 
     }
 }
