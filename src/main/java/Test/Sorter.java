@@ -1,3 +1,7 @@
+package Test;
+
+import Test.Generator;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
