@@ -6,6 +6,7 @@ public class Main {
         System.out.println("master4");
 
         System.out.println("another");
+        System.out.println("other");
 
 
 
